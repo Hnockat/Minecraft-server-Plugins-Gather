@@ -1,0 +1,10 @@
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_sword",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_sword",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_sword",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_sword",Count:1b},{}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {Tags:["10","GENERIC_FOLLOW_RANGE,50","r","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_sword",Count:1b},{}]}

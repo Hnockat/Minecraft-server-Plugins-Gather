@@ -1,0 +1,7 @@
+summon minecraft:blaze -84.01 -44.00 13.01 {Tags:["10"]}
+summon minecraft:blaze -84.01 -44.00 13.01 {Tags:["10"]}
+summon minecraft:blaze -84.01 -44.00 13.01 {Tags:["10"]}
+summon minecraft:blaze -84.01 -44.00 13.01 {Tags:["10"]}
+summon minecraft:blaze -84.01 -44.00 13.01 {Tags:["10"]}
+summon minecraft:zombie -84.01 -44.00 13.01 {IsBaby:1b,Tags:["12"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}]}
+summon minecraft:zombie -84.01 -44.00 13.01 {IsBaby:1b,Tags:["12"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}]}

@@ -1,0 +1,6 @@
+summon minecraft:zombie -84.01 -44.00 13.01 {Tags:["10","GENERIC_FOLLOW_RANGE,50","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.01 -44.00 13.01 {Tags:["10","GENERIC_FOLLOW_RANGE,50","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.01 -44.00 13.01 {Tags:["10","GENERIC_FOLLOW_RANGE,50","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.01 -44.00 13.01 {Tags:["10","GENERIC_FOLLOW_RANGE,50","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.01 -44.00 13.01 {Tags:["10","GENERIC_FOLLOW_RANGE,50","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:zombie -84.01 -44.00 13.01 {Tags:["10","GENERIC_FOLLOW_RANGE,50","GENERIC_MOVEMENT_SPEED,0.3",">INVISIBILITY,1,99999"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}

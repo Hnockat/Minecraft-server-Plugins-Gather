@@ -1,0 +1,1 @@
+summon husk -83.55 -44.00 -6.58 {Tags:["220","GENERIC_MAX_HEALTH,160","GENERIC_MOVEMENT_SPEED,0.37","GENERIC_SCALE,1.2","GENERIC_ATTACK_KNOCKBACK,2","GENERIC_ATTACK_DAMAGE,13","flynull"],CustomNameVisible:0b,CustomName:'{"text":"小型巨人僵尸"}',HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[100.000F,0.085F]}

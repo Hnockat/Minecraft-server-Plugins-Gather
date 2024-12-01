@@ -1,0 +1,5 @@
+summon minecraft:zombie -84.03 -44.00 -23.47 {IsBaby:1b,Tags:["12","r"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {IsBaby:1b,Tags:["12","r"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {IsBaby:1b,Tags:["12","r"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {IsBaby:1b,Tags:["12","r"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}]}
+summon minecraft:zombie -84.03 -44.00 -23.47 {IsBaby:1b,Tags:["12","r"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}]}

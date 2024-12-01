@@ -1,0 +1,7 @@
+summon minecraft:spider -84.03 -44.00 -23.47 {Tags:["14","GENERIC_MOVEMENT_SPEED,0.3","GENERIC_SCALE,0.2","r"]}
+summon minecraft:spider -84.03 -44.00 -23.47 {Tags:["14","GENERIC_MOVEMENT_SPEED,0.3","GENERIC_SCALE,0.2","r"]}
+summon minecraft:spider -84.03 -44.00 -23.47 {Tags:["14","GENERIC_MOVEMENT_SPEED,0.3","GENERIC_SCALE,0.2","r"]}
+summon minecraft:spider -84.03 -44.00 -23.47 {Tags:["14","GENERIC_MOVEMENT_SPEED,0.3","GENERIC_SCALE,0.2","r"]}
+summon minecraft:spider -84.03 -44.00 -23.47 {Tags:["14","GENERIC_MOVEMENT_SPEED,0.3","GENERIC_SCALE,0.2","r"]}
+summon minecraft:spider -84.03 -44.00 -23.47 {Tags:["14","GENERIC_MOVEMENT_SPEED,0.3","GENERIC_SCALE,0.2","r"]}
+summon minecraft:spider -84.03 -44.00 -23.47 {Tags:["14","GENERIC_MOVEMENT_SPEED,0.3","GENERIC_SCALE,0.2","r"]}
