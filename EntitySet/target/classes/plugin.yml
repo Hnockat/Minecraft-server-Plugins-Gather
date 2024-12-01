@@ -1,6 +1,0 @@
-name: EntitySet
-version: '1.0-SNAPSHOT'
-main: org.entitySet.EntitySet
-api-version: '1.21'
-commands:
-  task:
