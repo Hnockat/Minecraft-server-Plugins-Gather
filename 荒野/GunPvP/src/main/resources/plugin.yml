@@ -1,0 +1,4 @@
+name: GunPvP
+version: '1.0-SNAPSHOT'
+main: org.gunPvP.GunPvP
+api-version: '1.21'

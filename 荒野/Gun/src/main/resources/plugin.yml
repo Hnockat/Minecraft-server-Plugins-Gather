@@ -1,0 +1,9 @@
+name: Gun
+version: '1.0-SNAPSHOT'
+main: org.gun.Gun
+api-version: '1.21'
+commands:
+  测试:
+  测试2:
+  测试3:
+  测试4:

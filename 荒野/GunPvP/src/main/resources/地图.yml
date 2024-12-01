@@ -1,0 +1,106 @@
+WorldName:
+  01:
+    name: ""
+    Player: 4
+    Team_01:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+    Team_02:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+  02:
+    name: ""
+    Player: 4
+    Team_01:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+    Team_02:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+  03:
+    name: ""
+    Player: 4
+    Team_01:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+    Team_02:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+  04:
+    name: ""
+    Player: 4
+    Team_01:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+    Team_02:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+  05:
+    name: ""
+    Player: 4
+    Team_01:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+    Team_02:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+  06:
+    name: ""
+    Player: 4
+    Team_01:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+    Team_02:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+  07:
+    name: ""
+    Player: 4
+    Team_01:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""
+    Team_02:
+      Player: 2
+      Location:
+        - ""
+        - ""
+        - ""

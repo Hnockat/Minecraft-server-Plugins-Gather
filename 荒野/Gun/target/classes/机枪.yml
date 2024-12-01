@@ -1,0 +1,35 @@
+# ZD 为全自动 ; DF为半自动 ; SD为散弹类型
+是否无限子弹: false
+机枪类型:
+  Ak47:
+    Material: STONE_PICKAXE
+    Name: "Ak47"
+    单发伤害持续: 2
+    冲量: 5
+    发射类型: "ZD"
+    子弹:
+      - "7/62x39mm.步枪"
+  MP5:
+    Material: WOODEN_PICKAXE
+    Name: "MP5冲锋枪"
+    单发伤害持续: 2
+    冲量: 4
+    发射类型: "ZD"
+    子弹:
+      - "9x19mm.冲锋枪"
+  格洛克手枪:
+    Material: IRON_HORSE_ARMOR
+    Name: "格洛克手枪"
+    单发伤害持续: 2
+    冲量: 3.9
+    发射类型: "DF"
+    子弹:
+      - "9x19mm.手枪"
+  Mossberg/500:
+    Material: LEATHER_HORSE_ARMOR
+    Name: "Mossberg_500 泵动式散弹枪"
+    单发伤害持续: 2
+    冲量: 1.5
+    发射类型: "SD"
+    子弹:
+      - "12号口径.散弹枪"
