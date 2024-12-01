@@ -1,0 +1,14 @@
+# %rank% 权限 如 无 vip vip++ mvp++ 管理员 志愿者 开发者
+# %guineas% 金币数量
+# %level% 服务器等级
+#Text倒序排列
+MainhallScoreboard:
+  world: "world"
+  Title: "Hnockat服务器"
+  Text:
+    - " qq群:958333627"
+    - ""
+    - " 金币: %guineas%"
+    - " 等级: %level%"
+    - " 权限: %rank%"
+    - ""

@@ -1,0 +1,25 @@
+#  %Server.Players% //玩家数量
+#Item_0:
+#  Item: "物品枚举"
+#  title: "标题"
+#  RawSlot: 1
+#  Lore:
+#    - "副标题"
+#  Server: "服务器传送name"
+菜单属性:
+  Item: "COMPASS"
+  name: "[右键打开]游戏菜单"
+Item_0:
+  Item: "TRIDENT"
+  title: "[杀戮打怪]"
+  RawSlot: 1
+  Lore:
+    - ""
+  Server: "Fightmonsters"
+Item_1:
+  Item: "IRON_SWORD"
+  title: "[狼人杀]"
+  RawSlot: 2
+  Lore:
+    - ""
+  Server: "Werewolf"
