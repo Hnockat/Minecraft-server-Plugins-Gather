@@ -1,0 +1,1 @@
+summon minecraft:wither -83.55 -42.00 -6.58 {Tags:["flynull","4000","GENERIC_MAX_HEALTH,1000","GENERIC_SCALE,2"],CustomName:'{"text":"§5凋零风暴"}'}

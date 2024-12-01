@@ -1,0 +1,4 @@
+summon minecraft:skeleton -84.03 -44.00 -23.47 {Tags:["13","r"],HandItems:[{id:"minecraft:bow",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon minecraft:skeleton -84.03 -44.00 -23.47 {Tags:["13","r"],HandItems:[{id:"minecraft:bow",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon minecraft:skeleton -84.03 -44.00 -23.47 {Tags:["13","r"],HandItems:[{id:"minecraft:bow",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon minecraft:skeleton -84.03 -44.00 -23.47 {Tags:["13","r"],HandItems:[{id:"minecraft:bow",Count:1b},{}],HandDropChances:[100.000F,0.085F]}

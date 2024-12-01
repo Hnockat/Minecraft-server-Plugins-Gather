@@ -1,0 +1,1 @@
+setblock 0 -50 0 stone

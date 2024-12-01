@@ -1,0 +1,10 @@
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.03 -44.00 -23.47 {Tags:["16","r"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}

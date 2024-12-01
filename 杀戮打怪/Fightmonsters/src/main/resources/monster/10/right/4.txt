@@ -1,0 +1,3 @@
+summon minecraft:witch -84.03 -44.00 -23.47 {Tags:["15","r"]}
+summon minecraft:witch -84.03 -44.00 -23.47 {Tags:["15","r"]}
+summon minecraft:witch -84.03 -44.00 -23.47 {Tags:["15","r"]}

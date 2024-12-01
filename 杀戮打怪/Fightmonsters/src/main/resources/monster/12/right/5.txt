@@ -1,0 +1,12 @@
+summon minecraft:evoker -84.03 -44.00 -23.47 {Tags:["15","r"]}
+summon minecraft:evoker -84.03 -44.00 -23.47 {Tags:["15","r"]}
+summon minecraft:evoker -84.03 -44.00 -23.47 {Tags:["15","r"]}
+summon minecraft:evoker -84.03 -44.00 -23.47 {Tags:["15","r"]}
+summon minecraft:evoker -84.03 -44.00 -23.47 {Tags:["15","r"]}
+summon minecraft:pillager -84.03 -44.00 -23.47 {Tags:["12","r"],HandItems:[{id:"minecraft:crossbow",Count:1b},{}]}
+summon minecraft:pillager -84.03 -44.00 -23.47 {Tags:["12","r"],HandItems:[{id:"minecraft:crossbow",Count:1b},{}]}
+summon minecraft:pillager -84.03 -44.00 -23.47 {Tags:["12","r"],HandItems:[{id:"minecraft:crossbow",Count:1b},{}]}
+summon minecraft:pillager -84.03 -44.00 -23.47 {Tags:["12","r"],HandItems:[{id:"minecraft:crossbow",Count:1b},{}]}
+summon minecraft:pillager -84.03 -44.00 -23.47 {Tags:["12","r"],HandItems:[{id:"minecraft:crossbow",Count:1b},{}]}
+summon minecraft:pillager -84.03 -44.00 -23.47 {Tags:["12","r"],HandItems:[{id:"minecraft:crossbow",Count:1b},{}]}
+summon minecraft:pillager -84.03 -44.00 -23.47 {Tags:["12","r"],HandItems:[{id:"minecraft:crossbow",Count:1b},{}]}

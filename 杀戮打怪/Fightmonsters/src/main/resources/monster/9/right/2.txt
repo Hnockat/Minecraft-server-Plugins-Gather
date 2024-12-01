@@ -1,0 +1,5 @@
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}

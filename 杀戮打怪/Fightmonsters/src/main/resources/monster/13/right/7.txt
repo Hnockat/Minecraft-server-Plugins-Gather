@@ -1,0 +1,10 @@
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}
+summon minecraft:wither_skeleton -84.03 -44.00 -23.47 {Tags:["r","30","GENERIC_MAX_HEALTH,80","GENERIC_MOVEMENT_SPEED,0.33","^InHand,FIRE_ASPECT,2"],HandItems:[{id:"minecraft:iron_axe",Count:1b},{}]}

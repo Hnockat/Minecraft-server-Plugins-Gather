@@ -1,0 +1,1 @@
+summon minecraft:creeper -83.55 -44.00 -6.58 {Tags:["800","creeper,true,50,40","GENERIC_SCALE,3","flynull","GENERIC_FOLLOW_RANGE,100","GENERIC_MAX_HEALTH,300"],CustomName:'{"text":"高爆CREEPER"}'}

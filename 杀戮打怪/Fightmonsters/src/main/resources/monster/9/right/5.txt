@@ -1,0 +1,17 @@
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["12","r","creeper,false,5,15"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}
+summon minecraft:creeper -84.03 -44.00 -23.47 {Tags:["8","r","creeper,false,3,13","GENERIC_FOLLOW_RANGE,100","GENERIC_MOVEMENT_SPEED,0.4","GENERIC_SCALE,0.5"]}

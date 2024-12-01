@@ -1,0 +1,11 @@
+summon husk -84.01 -44.00 13.01 {Tags:["20","GENERIC_MAX_HEALTH,40","GENERIC_MOVEMENT_SPEED,0.43"],CustomNameVisible:0b,CustomName:'{"text":"恐怖僵尸"}',HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon husk -84.01 -44.00 13.01 {Tags:["20","GENERIC_MAX_HEALTH,40","GENERIC_MOVEMENT_SPEED,0.43"],CustomNameVisible:0b,CustomName:'{"text":"恐怖僵尸"}',HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon husk -84.01 -44.00 13.01 {Tags:["20","GENERIC_MAX_HEALTH,40","GENERIC_MOVEMENT_SPEED,0.43"],CustomNameVisible:0b,CustomName:'{"text":"恐怖僵尸"}',HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon husk -84.01 -44.00 13.01 {Tags:["20","GENERIC_MAX_HEALTH,40","GENERIC_MOVEMENT_SPEED,0.43"],CustomNameVisible:0b,CustomName:'{"text":"恐怖僵尸"}',HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon husk -84.01 -44.00 13.01 {Tags:["20","GENERIC_MAX_HEALTH,40","GENERIC_MOVEMENT_SPEED,0.43"],CustomNameVisible:0b,CustomName:'{"text":"恐怖僵尸"}',HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[100.000F,0.085F]}
+summon minecraft:vindicator -84.01 -44.00 13.01 {Tags:["30","GENERIC_MAX_HEALTH,60"],HandItems:[{id:"minecraft:diamond_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.01 -44.00 13.01 {Tags:["30","GENERIC_MAX_HEALTH,60"],HandItems:[{id:"minecraft:diamond_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.01 -44.00 13.01 {Tags:["30","GENERIC_MAX_HEALTH,60"],HandItems:[{id:"minecraft:diamond_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.01 -44.00 13.01 {Tags:["30","GENERIC_MAX_HEALTH,60"],HandItems:[{id:"minecraft:diamond_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.01 -44.00 13.01 {Tags:["30","GENERIC_MAX_HEALTH,60"],HandItems:[{id:"minecraft:diamond_axe",Count:1b},{}]}
+summon minecraft:vindicator -84.01 -44.00 13.01 {Tags:["30","GENERIC_MAX_HEALTH,60"],HandItems:[{id:"minecraft:diamond_axe",Count:1b},{}]}
