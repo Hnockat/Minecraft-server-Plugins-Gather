@@ -1,0 +1,72 @@
+Item_0:
+  Item: "POTION"
+  name: "§b速度药水[60秒]"
+  Pay:
+    price: 2
+    quantity: 1
+  药水:
+    效果:
+#       "效果 时间(单位秒) 倍率"
+      - "SPEED 60 0"
+    颜色:
+      - 255
+      - 0
+      - 0
+Item_1:
+  Item: "SPLASH_POTION"
+  name: "§e老六药水[隐身10秒]"
+  Pay:
+    price: 2
+    quantity: 1
+  药水:
+    效果:
+      - "INVISIBILITY 10 0"
+    颜色:
+      - 173
+      - 172
+      - 171
+Item_2:
+  Item: "POTION"
+  name: "§b速度药水II[60秒]"
+  Pay:
+    price: 5
+    quantity: 1
+  药水:
+    效果:
+      #       "效果 时间(单位秒) 倍率"
+      - "SPEED 60 2"
+    颜色:
+      - 255
+      - 0
+      - 0
+Item_3:
+  Item: "ENDER_PEARL"
+  Pay:
+    price: 4
+    quantity: 1
+Item_4:
+  Item: "ELYTRA"
+  lore:
+    - "配合风弹使用"
+  Pay:
+    price: 6
+    quantity: 1
+Item_5:
+  Item: "WIND_CHARGE"
+  Pay:
+    price: 1
+    quantity: 1
+Item_6:
+  Item: "FISHING_ROD"
+  Pay:
+    price: 1
+    quantity: 1
+Item_7:
+  Item: "TNT"
+  name: "高爆手雷"
+  lore:
+    - "§b右键方块放置"
+    - "§b左键 以抛射物发射"
+  Pay:
+    price: 5
+    quantity: 1

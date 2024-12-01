@@ -1,0 +1,7 @@
+name: werewolf
+version: '1.0-SNAPSHOT'
+main: org.werewolf.Werewolf
+api-version: '1.21'
+commands:
+  go:
+  task:
