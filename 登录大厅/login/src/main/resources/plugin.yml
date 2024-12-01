@@ -1,0 +1,8 @@
+name: login
+version: '1.0-SNAPSHOT'
+main: org.login.Login
+api-version: '1.21'
+commands:
+  l:
+  reg:
+  login:
